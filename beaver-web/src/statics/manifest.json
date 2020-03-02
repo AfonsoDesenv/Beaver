@@ -1,0 +1,15 @@
+{
+  "short_name": "Beaver",
+  "name": "Beaver",
+  "icons": [
+    {
+      "src": "user.jpg",
+      "sizes": "57x57",
+      "type": "image/jpg",
+      "density": "1.0",
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
